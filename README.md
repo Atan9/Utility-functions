@@ -1,4 +1,4 @@
-A collectio of utility functions
+A collectio of utility functions!
 
 # Examples
 
