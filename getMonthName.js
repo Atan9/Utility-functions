@@ -1,9 +1,9 @@
 export default function getMonthName(place) {
     const months = [
-        'january',
-        'february',
-        'march',
-        'april',
+        'January',
+        'February',
+        'March',
+        'April',
 	'may',
 	'june',
 	'july',
